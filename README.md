@@ -4,7 +4,8 @@ With over a decade of experience in tech, I've had the opportunity to try my han
 
 - 🔭 I’m currently working at [Tātou Technologies](https://tatou.app) - New Zealand
 - 🌱 I’m currently learning Hexagonal architecture
-- 👯 I’m collaborating on [The Colour Project](https://www.thecolourproject.ca/)
+- 🤖 AI is something I'm really into at the moment
 - 💬 Ask me about React Native, JavaScript and Ruby on Rails
+- 🧠 I'm using [Obsidian](https://obsidian.md/) to build my second brain
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/william-gurzoni/)
 - ⚡ Fun fact: I tried to watch The Lord of the Rings a few times, but I never stayed up until the end!
